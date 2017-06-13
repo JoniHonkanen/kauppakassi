@@ -1,0 +1,3 @@
+komennot:
+webpack
+npm run start
